@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="center">A passionate junior developer from Turkey</h3>
 
-- 🌱 I’m currently learning **C# and Java**
+- 🌱 I’m currently learning: **C# and Java**
 
-- 💬 Ask me about **HTML, CSS and JS**
+- 💬 Ask me about: **HTML, CSS and JS**
 
-- 📫 How to reach me **kadir-metin@outlook.com.tr**
+- 📫 How to reach me: **kadir-metin@outlook.com.tr**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
