@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadir</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
-- 🌱 I’m currently learning **.Net MVC and Java**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kadir-metin@outlook.com.tr**
 
