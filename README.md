@@ -1,4 +1,4 @@
-## I'm studying Management Information Systems at Anadolu University. Me and my cousin <a>[Serkan](https://github.com/serkannpolatt)</a> write about mobile development and other topics on our joint site Softforware.
+### I'm studying Management Information Systems at Anadolu University. Me and my cousin <a>[Serkan](https://github.com/serkannpolatt)</a> write about mobile development and other topics on our joint site Softforware.
 
 ### I code with
 
