@@ -12,7 +12,7 @@ I'm **Kadir Metin**.
 
 <details>
   <summary>📌 <b>Technical Expertise</b></summary>
-  ✅ Backend Stack 1: Node.js, Express.js, Bun, Hono<br>
+  ✅ Backend Stack: Node.js, Express.js, Bun, Hono<br>
   ✅ Database: PostgreSQL, MongoDb<br>
   ✅ Frontend: React, TypeScript<br>
   ✅ Mobile: React Native, Firebase<br>
