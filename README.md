@@ -1,11 +1,32 @@
-### I'm studying Management Information Systems at Anadolu University. Me and my cousin <a>[Serkan](https://github.com/serkannpolatt)</a> write about mobile development and other topics on our joint site Softforware.
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kadirmetin)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirmetin/)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadirmetin)
 
-### I code with
+### Hi there 👋
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+I'm **Kadir Metin**.
 
-[![](https://visitcount.itsvg.in/api?id=kadirmetin&icon=0&color=12)](https://visitcount.itsvg.in)
+- 🔭 I'm a passionate **React** and **React Native** developer.
+- 💻 I'm currently working at [Mindbuddy](https://mindbuddy.io/).
+- 🧡 I love learning and teaching technologies about web and mobile.
+
+<details>
+  <summary>📌 <b>Technical Expertise</b></summary>
+  ✅ Backend Stack 1: Node.js, Bun<br>
+  ✅ Database: PostgreSql, MongoDb<br>
+  ✅ Frontend: React, TypeScript<br>
+  ✅ Mobile: React Native, Firebase<br>
+  ✅ Management: Git, Github, AWS<br>
+  ✅ Other: Redux<br>
+</details>
+
+<details>
+  <summary>⚡ <b>Stats</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=kadirmetin&show_icons=true&count_private=true&theme=dark" />
+</details>
+
+#### 📝 Blog Posts
+
+- [2023'te React: Geleceğe Bir Bakış](https://blog.softforware.com/post/cln9duqx70000lh086izs2tiv): React'in 2023'teki önemli güncellemeleri ve gelecek trendlere dair hızlı bir göz atış.
+
+Explore more on my [Blog](https://blog.softforware.com).
