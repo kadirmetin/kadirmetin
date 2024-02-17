@@ -12,11 +12,12 @@ I'm **Kadir Metin**.
 
 <details>
   <summary>📌 <b>Technical Expertise</b></summary>
-  ✅ Backend Stack 1: Node.js, Bun<br>
-  ✅ Database: PostgreSql, MongoDb<br>
+  ✅ Backend Stack 1: Node.js, Express.js, Bun, Hono<br>
+  ✅ Database: PostgreSQL, MongoDb<br>
   ✅ Frontend: React, TypeScript<br>
   ✅ Mobile: React Native, Firebase<br>
-  ✅ Management: Git, Github, AWS<br>
+  ✅ Management: Git, Github<br>
+  ✅ Cloud Services: AWS<br>
   ✅ Other: Redux<br>
 </details>
 
@@ -28,5 +29,3 @@ I'm **Kadir Metin**.
 #### 📝 Blog Posts
 
 - [2023'te React: Geleceğe Bir Bakış](https://blog.softforware.com/post/cln9duqx70000lh086izs2tiv): React'in 2023'teki önemli güncellemeleri ve gelecek trendlere dair hızlı bir göz atış.
-
-Explore more on my [Blog](https://blog.softforware.com).
