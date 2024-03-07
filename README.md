@@ -7,7 +7,7 @@
 I'm **Kadir Metin**.
 
 - 🔭 I'm a passionate **React** and **React Native** developer.
-- 💻 I'm currently working at [Mindbuddy](https://mindbuddy.io/).
+- 💻 I am actively looking for a job right now.
 - 🧡 I love learning and teaching technologies about web and mobile.
 
 <details>
@@ -28,4 +28,5 @@ I'm **Kadir Metin**.
 
 #### 📝 Blog Posts
 
+- [React Labs'tan Haber Var: Şubat 2024 Güncellemesi ve İnceleme](https://blog.softforware.com/post/clth94ern0000t6atpdkq6ovl): React Labs Şubat 2024 tarihli blog yazısı üzerine bir yazı. 
 - [2023'te React: Geleceğe Bir Bakış](https://blog.softforware.com/post/cln9duqx70000lh086izs2tiv): React'in 2023'teki önemli güncellemeleri ve gelecek trendlere dair hızlı bir göz atış.
