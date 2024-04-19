@@ -8,7 +8,7 @@ I'm **Kadir Metin**.
 
 - 🔭 I'm a passionate **React** and **React Native** developer.
 - 💻 I am actively looking for a job right now.
-- 🧡 I love learning and teaching technologies about web and mobile.
+- 🧡 I love learning and writing about web and mobile technologies.
 
 <details>
   <summary>📌 <b>Technical Expertise</b></summary>
