@@ -1,4 +1,4 @@
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_kadirmetin&style=for-the-badge&logo=X&logoColor=white&label=X&color=%23555555)
+[![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_kadirmetin&style=for-the-badge&logo=X&logoColor=white&label=X&color=%23555555)](https://www.linkedin.com/in/kadirmetin/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirmetin/)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kadirmetin)
 
