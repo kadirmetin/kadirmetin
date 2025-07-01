@@ -6,16 +6,16 @@
 
 I'm **Kadir Metin**.
 
-- 🔭 I'm a passionate **React** and **React Native** developer.
+- 🔭 I'm a passionate **React**, **React Native** and Node.js developer.
 - 💻 I am actively looking for a job right now.
-- 🧡 I love learning and writing about web and mobile technologies.
+- 🧡 I love learning and writing about web, mobile and backend technologies.
 
 <details>
   <summary>📌 <b>Technical Expertise</b></summary>
-  ✅ Backend Stack: Node.js, Express.js, Bun, Hono<br>
-  ✅ Database: PostgreSQL, MongoDb<br>
-  ✅ Frontend: React, TypeScript<br>
-  ✅ Mobile: React Native, Firebase<br>
+  ✅ Backend: Node.js, Express.js, Hono<br>
+  ✅ Database: PostgreSQL, MongoDB<br>
+  ✅ Web: React<br>
+  ✅ Mobile: React Native<br>
   ✅ Management: Git, Github<br>
   ✅ Cloud Services: AWS<br>
   ✅ Other: Redux<br>
@@ -28,5 +28,4 @@ I'm **Kadir Metin**.
 
 #### 📝 Blog Posts
 
-- [React Labs'tan Haber Var: Şubat 2024 Güncellemesi ve İnceleme](https://blog.softforware.com/post/clth94ern0000t6atpdkq6ovl): React Labs Şubat 2024 tarihli blog yazısı üzerine bir yazı. 
-- [2023'te React: Geleceğe Bir Bakış](https://blog.softforware.com/post/cln9duqx70000lh086izs2tiv): React'in 2023'teki önemli güncellemeleri ve gelecek trendlere dair hızlı bir göz atış.
+- [Monorepolarda Bağımlılık Yönetimi ve Çakışma Çözümleri](https://kadirmetin.dev/blog/monorepolarda-bagimlilik-yonetimi-ve-cakisma-cozumleri)
