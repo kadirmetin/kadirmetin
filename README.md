@@ -28,4 +28,5 @@ I'm **Kadir Metin**.
 
 #### 📝 Blog Posts
 
+- [Shadcn'e Gelen 7 Yeni Componenti İnceledim](https://kadirmetin.dev/blog/shadcne-gelen-7-yeni-componenti-inceledim)
 - [Monorepolarda Bağımlılık Yönetimi ve Çakışma Çözümleri](https://kadirmetin.dev/blog/monorepolarda-bagimlilik-yonetimi-ve-cakisma-cozumleri)
