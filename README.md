@@ -2,8 +2,8 @@
 
 I'm **Kadir Metin**.
 
-- 🔭 I'm a passionate **React**, **React Native** and Node.js developer.
-- 💻 I am actively looking for a job right now.
+- 🔭 I'm a passionate **React**, **React Native** and **Express.js** developer.
+- 💻 I am currently working at Retry Apps.
 - 🧡 I love learning and writing about web, mobile and backend technologies.
 
 <details>
