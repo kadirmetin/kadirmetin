@@ -2,9 +2,9 @@
 
 I'm **Kadir Metin**.
 
-- 🔭 I'm a passionate **React**, **React Native** and **Express.js** developer.
-- 💻 I am currently working at Retry Apps.
-- 🧡 I love learning and writing about web, mobile and backend technologies.
+- 🔭 I'm a passionate **React**, **React Native** developer.
+- 💻 I am currently working at [**Retry Apps**](https://retryapps.llc/).
+- 🧡 I love learning and writing about **web**, **mobile** and **backend** technologies.
 
 <details>
   <summary>📌 <b>Technical Expertise</b></summary>
