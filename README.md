@@ -13,8 +13,7 @@ I'm **Kadir Metin**.
   ✅ Web: React<br>
   ✅ Mobile: React Native<br>
   ✅ Management: Git, Github<br>
-  ✅ Cloud Services: AWS<br>
-  ✅ Other: Redux<br>
+  ✅ Other: Redux, Zustand<br>
 </details>
 
 <details>
